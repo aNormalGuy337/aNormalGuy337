@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **javascript/typescript**
 
-- 👨‍💻 All of my projects are available at [-](-)
+- 👨‍💻 All of my projects are available [here](https://github.com/aNormalGuy337/)
 
 - 📝 I regularly write articles on [https://www.instagram.com/platonklius/](https://www.instagram.com/platonklius/)
 
